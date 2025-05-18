@@ -1,0 +1,21 @@
+.p2{
+    color: chartreuse;
+}
+.h2{
+    color: brown;
+}
+.code{
+    color: chocolate;
+}
+.t>table{
+    border: 2px solid black;
+    margin-bottom: 10px;
+    border-collapse: collapse;
+    width: 300px;
+}
+th{
+    border: 1px solid black;
+}
+tr>td{
+    border: 1px solid black;
+}
